@@ -1,0 +1,2 @@
+# MySqlBasicCore
+MySqlBasicCore
